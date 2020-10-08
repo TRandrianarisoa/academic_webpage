@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Machine Learning Research Intern"
+  company = "Walnut Algorithms"
+  company_url = "https://walnut.ai"
+  location = "Paris"
+  date_start = "2018-03-01"
+  date_end = "2018-09-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Design of a trading algorithm.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Software Engineering Intern"
+  company = "Spinergie"
+  company_url = "https://www.spinergie.com"
+  location = "Paris"
+  date_start = "2017-09-01"
+  date_end = "2018-02-20"
+  description = """Built a large-scale crawler/scraper in Python."""
+  
+[[experience]]
+  title = "Biostatistician Intern"
+  company = "Institut de Recherches Internationales SERVIER (I.R.I.S.)"
+  company_url = "https://www.servier.fr"
+  location = "Paris"
+  date_start = "2016-06-01"
+  date_end = "2016-09-30"
+  description = """Review of statistical methods associated with interim analyses of clinical trials."""
+  
+[design.background]
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image = "fond.jpg" 
 +++
