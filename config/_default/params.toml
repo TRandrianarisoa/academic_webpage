@@ -62,7 +62,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -101,7 +101,7 @@ coordinates = {latitude = "48.847462", longitude = "2.353932"}
 
 
 # Directions for visitors to locate you.
-directions = "My office is located on the 2nd Floor of Tower 15/16 and is number at 08. I also have PO Box 158."
+directions = "My office is located on the 2nd Floor of Tower 15/16 and is at number 08. I also have PO Box 158."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

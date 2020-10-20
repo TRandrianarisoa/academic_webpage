@@ -12,4 +12,4 @@ subtitle = ""
 weight = 75
 +++
 
-For the 2020-2021 academic, I co-organize the LPSM weekly PhD student seminar ([GTT](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/))
+For the 2020-2021 academic year, I co-organize the LPSM weekly PhD student seminar ([GTT](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/))
