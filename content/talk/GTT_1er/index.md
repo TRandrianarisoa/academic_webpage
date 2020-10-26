@@ -14,13 +14,13 @@ address:
 summary:
 abstract: "With CART regression trees, the values of the estimator in the leaf cells are equal to the mean of the observed 
 data in each cell. Hence, once the tree structure is specified, this defines a histogram estimator. As a drawback, this 
-limits its performance when the regression function $f_0$ to be recovered is $\alpha$-Hölder regular, with $\alpha > 1$. 
+limits its performance when the regression function $f_0$ to be recovered is $\\alpha$-Hölder regular, with $\\alpha > 1$. 
 However, it has been noted that ensemble methods, defining a forest estimator, could generate a smoothing effect, 
 improving over the convergence rate of single tree estimators.
 We are going to see how such ideas translate into nonparametric Bayesian inference. Indeed, a popular prior distribution
  involving a tree structure and ßused in density estimation is the Pólya tree prior. So we will see how we can define prior
   distributions via forests of Pólya trees. First, these lead to nearly optimal contraction rates of the posterior distribution, 
-  for any regularity $\alpha > 0$ of the true density $f_0$. Secondly, such priors can also be made adaptive to $\alpha > 0$. 
+  for any regularity $\\alpha > 0$ of the true density $f_0$. Secondly, such priors can also be made adaptive to $\\alpha > 0$. 
   This is a sought-after property of inference methods as this smoothness parameter is often unknown in practice.
   "
 

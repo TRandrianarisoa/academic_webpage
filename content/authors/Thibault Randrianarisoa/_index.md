@@ -23,6 +23,7 @@ bio: My research interests include Bayesian nonparametrics, ensemble methods and
 interests:
 - Bayesian nonparametrics
 - Random Forests
+- Uncertainty quantification
 
 
 education:
