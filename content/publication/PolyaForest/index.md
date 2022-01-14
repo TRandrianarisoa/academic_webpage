@@ -16,7 +16,7 @@ publishDate: 2020-10-26T15:14:57+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "to appear in Bernoulli"
 publication_short: ""
 
 abstract: "

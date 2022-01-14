@@ -74,4 +74,4 @@ highlight_name: true
 #- Visitors
 ---
 
-I am a second-year PhD student at [LPSM](https://www.lpsm.paris), Sorbonne Université, supervised by [Ismaël Castillo](https://www.lpsm.paris/pageperso/castillo/). 
+I am a third-year PhD student at [LPSM](https://www.lpsm.paris), Sorbonne Université, supervised by [Ismaël Castillo](https://www.lpsm.paris/pageperso/castillo/). 
