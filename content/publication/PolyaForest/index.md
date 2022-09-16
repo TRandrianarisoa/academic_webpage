@@ -13,10 +13,10 @@ publishDate: 2020-10-26T15:14:57+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "to appear in Bernoulli"
+publication: "Bernoulli"
 publication_short: ""
 
 abstract: "
@@ -49,7 +49,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/2010.12299"
+url_pdf: "https://projecteuclid.org/journals/bernoulli/volume-28/issue-4/Smoothing-and-adaptation-of-shifted-Pólya-tree-ensembles/10.3150/21-BEJ1426.short"
 url_code:
 url_dataset:
 url_poster:
