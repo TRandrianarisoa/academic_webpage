@@ -4,7 +4,7 @@
 title: "Optional Pólya trees: posterior rates and uncertainty quantification"
 authors: ["Ismaël Castillo", "Thibault Randrianarisoa"]
 date: 2021-10-11T08:00:00+01:00
-doi: ""
+doi: "10.1214/22-EJS2086"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-10-11T08:00:00+01:00
@@ -13,10 +13,10 @@ publishDate: 2021-10-11T08:00:00+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Uncertainty Quantification for tree densities"
 publication_short: ""
 
 abstract: "
@@ -29,7 +29,7 @@ leading to near-optimal uncertainty quantification for the density function, as 
 the cumulative distribution function. The results are illustrated through a brief simulation study."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Bernoulli"
 
 tags: ["Bayesian nonparametrics", "Pólya trees", "posterior convergence rates", "supremum norm", 
 "uncertainty quantification", "frequentist coverage of credible sets"]
@@ -44,7 +44,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/pdf/2110.05265.pdf"
+url_pdf: "https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-2/Optional-Pólya-trees-Posterior-rates-and-uncertainty-quantification/10.1214/22-EJS2086.full"
 url_code:
 url_dataset:
 url_poster:

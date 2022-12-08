@@ -10,20 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: LPSM
-  url: "https://www.lpsm.paris"
+- name: Bocconi University
+  url: "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Bayesian nonparametrics, ensemble methods and uncertainty quantification.
+bio: My research interests include Statistical learning, Bayesian nonparametrics, Uncertainty Quantification and Causal Inference.
 
 interests:
 - Bayesian nonparametrics
 - Random Forests
 - Uncertainty quantification
+- (Deep) Gaussian processes
+- Causal Inference
 
 
 education:
@@ -45,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:thibault.randrianarisoa@upmc.fr"
+  link: "mailto:thibault.randrianarisoa@unibocconi.it"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=fr&user=329uecAAAAAJ
@@ -74,4 +76,11 @@ highlight_name: true
 #- Visitors
 ---
 
-I am a third-year PhD student at [LPSM](https://www.lpsm.paris), Sorbonne Université, supervised by [Ismaël Castillo](https://perso.lpsm.paris/~castillo/). 
+I am a Postodoctoral research at [BIDSA](https://bidsa.unibocconi.eu) at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/) 
+under the supervision of [Botond Szabo](https://botondszabo.com). Prior to that, I did my PhD in the 
+[LPSM](https://www.lpsm.paris) at [Sorbonne Université](https://www.sorbonne-universite.fr/en)
+under the supervision of [Ismaël Castillo](https://perso.lpsm.paris/~castillo/). My PhD manuscript can be found
+[here](https://hal.archives-ouvertes.fr/view/index/docid/3890739).
+
+My research interests include Bayesian nonparametrics, uncertainty quantification, scalability and 
+ensemble methods.

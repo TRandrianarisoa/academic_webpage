@@ -4,7 +4,7 @@
 title: "Smoothing and adaptation of shifted Pólya Tree ensembles"
 authors: ["Thibault Randrianarisoa"]
 date: 2020-10-26T08:00:00+01:00
-doi: ""
+doi: "10.3150/21-BEJ1426"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-26T15:14:57+01:00
@@ -16,8 +16,8 @@ publishDate: 2020-10-26T15:14:57+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Bernoulli"
-publication_short: ""
+publication: "Bayesian forests"
+publication_short: "Bernoulli"
 
 abstract: "
 Recently,  S. Arlot and R. Genuer have shown that a model of random forests outperforms its single-tree counterpart in 
@@ -35,7 +35,7 @@ attain optimality."
 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Bernoulli"
 
 tags: ["Bayesian nonparametrics", "ensemble", "forest", "Pólya Tree"]
 categories: []
