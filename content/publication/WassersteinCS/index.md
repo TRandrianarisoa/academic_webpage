@@ -3,11 +3,11 @@
 
 title: "On Adaptive Confidence Sets for the Wasserstein Distances"
 authors: ["Neil Deo", "Thibault Randrianarisoa"]
-date: 2021-11-17T16:58:18+01:00
-doi: ""
+date: 2023-08-01T08:00:00+01:00
+doi: "10.3150/22-BEJ1535"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-11-17T16:58:18+01:00
+# publishDate: 2021-11-17T16:58:18+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2021-11-17T16:58:18+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Wasserstein confidence sets"
+publication: "Bernoulli"
 publication_short: ""
 
 abstract: "
@@ -35,7 +35,7 @@ adaptive uncertainty quantification with Wasserstein distances. Our analysis and
 losses such as Sobolev norm distances with negative smoothness indices."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Bernoulli, 2023"
 
 tags: ["Wasserstein distance", "Uncertainty Quantification", "Nonparametric confidence sets"]
 categories: []

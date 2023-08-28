@@ -18,21 +18,21 @@ organizations:
   url: "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Statistical learning, Bayesian nonparametrics, Uncertainty Quantification and Causal Inference.
+bio: My research interests include statistical machine learning, Bayesian nonparametrics, uncertainty quantification and inverse problems.
 
 interests:
 - Bayesian nonparametrics
-- Random Forests
-- Uncertainty quantification
 - (Deep) Gaussian processes
-- Causal Inference
+- Uncertainty quantification
+- Variational Bayes
+- Inverse problems
 
 
 education:
   courses:
   - course: PhD in Statistics
     institution: Sorbonne Université
-    year: 2019-2022 (expected)
+    year: 2019-2022
   - course: StatML Master Degree
     institution: Université Paris-Saclay
     year: 2018-2019
@@ -76,11 +76,11 @@ highlight_name: true
 #- Visitors
 ---
 
-I am a Postodoctoral research at [BIDSA](https://bidsa.unibocconi.eu) at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/) 
-under the supervision of [Botond Szabo](https://botondszabo.com). Prior to that, I did my PhD in the 
-[LPSM](https://www.lpsm.paris) at [Sorbonne Université](https://www.sorbonne-universite.fr/en)
+I am a Postdoctoral research at [BIDSA](https://bidsa.unibocconi.eu) at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/) 
+working with [Botond Szabo](https://botondszabo.com). Prior to that, I did my PhD in the 
+[LPSM](https://www.lpsm.paris) lab at [Sorbonne Université](https://www.sorbonne-universite.fr/en)
 under the supervision of [Ismaël Castillo](https://perso.lpsm.paris/~castillo/). My PhD manuscript can be found
 [here](https://hal.archives-ouvertes.fr/view/index/docid/3890739).
 
-My research interests include Bayesian nonparametrics, uncertainty quantification, scalability and 
-ensemble methods.
+During my
+

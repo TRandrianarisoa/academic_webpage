@@ -3,11 +3,11 @@
 
 title: "Smoothing and adaptation of shifted Pólya Tree ensembles"
 authors: ["Thibault Randrianarisoa"]
-date: 2020-10-26T08:00:00+01:00
+date: 2022-11-01T08:00:00+01:00
 doi: "10.3150/21-BEJ1426"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-26T15:14:57+01:00
+# publishDate: 2020-10-26T15:14:57+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,7 +35,7 @@ attain optimality."
 
 
 # Summary. An optional shortened abstract.
-summary: "Bernoulli"
+summary: "Bernoulli, 2020"
 
 tags: ["Bayesian nonparametrics", "ensemble", "forest", "Pólya Tree"]
 categories: []
