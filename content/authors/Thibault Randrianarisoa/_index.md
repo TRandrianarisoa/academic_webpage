@@ -82,5 +82,4 @@ working with [Botond Szabo](https://botondszabo.com). Prior to that, I did my Ph
 under the supervision of [Ismaël Castillo](https://perso.lpsm.paris/~castillo/). My PhD manuscript can be found
 [here](https://hal.archives-ouvertes.fr/view/index/docid/3890739).
 
-During my
 
