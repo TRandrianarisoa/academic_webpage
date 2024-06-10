@@ -23,9 +23,12 @@ bio: My research interests include statistical machine learning, Bayesian nonpar
 interests:
 - Bayesian nonparametrics
 - (Deep) Gaussian processes
+- Tree-based methods (Random Forests, CART, Pólya Trees, BART,...)
 - Uncertainty quantification
 - Variational Bayes
 - Inverse problems
+- Differential privacy
+
 
 
 education:
@@ -76,10 +79,15 @@ highlight_name: true
 #- Visitors
 ---
 
-I am a Postdoctoral research at [BIDSA](https://bidsa.unibocconi.eu) at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/) 
-working with [Botond Szabo](https://botondszabo.com). Prior to that, I did my PhD in the 
-[LPSM](https://www.lpsm.paris) lab at [Sorbonne Université](https://www.sorbonne-universite.fr/en)
-under the supervision of [Ismaël Castillo](https://perso.lpsm.paris/~castillo/). My PhD manuscript can be found
+I am a Postdoctoral research at [BIDSA](https://bidsa.unibocconi.eu) at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/) (Milan, Italy)
+working with [Botond Szabo](https://botondszabo.com). I hold a PhD in Statistics from [Sorbonne Université](https://www.sorbonne-universite.fr/en) (Paris, France), where I worked in the 
+[LPSM](https://www.lpsm.paris) lab under the supervision of [Ismaël Castillo](https://perso.lpsm.paris/~castillo/). I am mainly interested in high-dimensional and nonparametric statistics. My PhD manuscript can be found
 [here](https://hal.archives-ouvertes.fr/view/index/docid/3890739).
+
+I am/have been a member of the following projects:
+
+* ERC [BigBayesUQ](https://www.europeandissemination.eu/wp-content/uploads/2023/07/BIGBAYES.pdf) (2022-2027)
+* ANR Project [GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html) (2021-2025)
+* ANR Project [BASICS](https://sites.google.com/site/anrbasics/home) (2017-2022)
 
 

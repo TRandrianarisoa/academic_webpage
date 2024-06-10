@@ -12,18 +12,24 @@ subtitle = ""
 weight = 80
 +++
 
+I was a co-instructor of the following course:
+
+# 2023-2024
+
+* Mathematical Statistics (BSc, Bocconi University) with [Botond Szabó](https://botondszabo.com).
+
 I have been a teaching assistant for the following courses:
 
 # 2020-2021
 
-* Probabilités numériques et statistiques computationnelles (M1, Sorbonne Université) with [Vincent Lemaire](https://www.lpsm.paris/pageperso/lemaire/)
-and [Pierre Monmarché](https://www.ljll.math.upmc.fr/monmarche/)
-* Modélisation statistique (M1, Sorbonne Université) with [Maud Thomas](https://sites.google.com/site/maudthomaspro/)
+* Probabilités numériques et statistiques computationnelles (MSc, Sorbonne Université) with [Vincent Lemaire](https://www.lpsm.paris/pageperso/lemaire/)
+and [Pierre Monmarché](https://www.ljll.math.upmc.fr/monmarche/).
+* Modélisation statistique (MSc, Sorbonne Université) with [Maud Thomas](https://sites.google.com/site/maudthomaspro/).
 
 
 # 2019-2020
 
-* Probabilités numériques et statistiques computationnelles (M1, Sorbonne Université) with [Vincent Lemaire](https://www.lpsm.paris/pageperso/lemaire/)
-and [Pierre Monmarché](https://www.ljll.math.upmc.fr/monmarche/)
-* Statistique (M1, Sorbonne Université) with [Maud Thomas](https://sites.google.com/site/maudthomaspro/)
-* Th́eorie des probabilités (L3, ENSAE - Institut Polytechnique de Paris) with [Victor-Emmanuel Brunel](https://vebrunel.com)
+* Probabilités numériques et statistiques computationnelles (MSc, Sorbonne Université) with [Vincent Lemaire](https://www.lpsm.paris/pageperso/lemaire/)
+and [Pierre Monmarché](https://www.ljll.math.upmc.fr/monmarche/).
+* Statistique (MSc, Sorbonne Université) with [Maud Thomas](https://sites.google.com/site/maudthomaspro/).
+* Th́eorie des probabilités (BSc, ENSAE - Institut Polytechnique de Paris) with [Victor-Emmanuel Brunel](https://vebrunel.com).
